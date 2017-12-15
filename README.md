@@ -1,7 +1,5 @@
 # LSTM-RNN Voice Activity Detection
 
-Project: Voice Activity Detection for Voice Controlled Home Automation <br />
-
 
 \- dataset_utils.py <br />
 	Dataset related utilities: One-hot encoding, wav file normalisation, TRS to CSV conversion, JSON to CSV conversion, Youtube wav download for the AudioSet Google corpus, Liblinear library data transformations
