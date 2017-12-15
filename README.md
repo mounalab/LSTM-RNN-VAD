@@ -16,7 +16,7 @@
 \- VAD_model.py <br />
 	LSTM-RNN tensorflow learning models variants
 
-\- __main__.py <br />
+\- \__main__.py <br />
 	The program's main entry point
 
 \- /checkpoint <br />
