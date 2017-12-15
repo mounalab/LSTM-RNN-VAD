@@ -44,11 +44,11 @@ def opensad_reference(reference_folder, label_folder, subjects_allowed, label_ex
 def main():
     print("Shall we start ??...")
 
-    reference_folder = 'sweethome/corpus-parole-domotique-t2'
+    reference_folder = 'data/corpus-parole'
     label_folder = 'CSV'
     subjects_allowed = ['S01','S02', 'S03', 'S04', 'S05']
 
-    print("And that's it for today ladies and gentlemen!...")
+    print("And that's it!...")
 
 if __name__ == "__main__":
     #logger = configure_logging()
