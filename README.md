@@ -1,1 +1,29 @@
-# VAD
+# LSTM-RNN Voice Activity Detection
+
+*** Project: Voice Activity Detection for Voice Controlled Home Automation 
+*** By: Mouna LABIADH
+
+
+- dataset_utils.py
+	Dataset related utilities: One-hot encoding, wav file normalisation, TRS to CSV conversion, JSON to CSV conversion, Youtube wav download for the AudioSet Google corpus, Liblinear library data transformations
+
+- metrics_utils.py
+	(NOT FINALISED) Metrics' related utilities for the baseline OpenSAD framework proposed by NIST as NIST Open Speech-Activity-Detection Evaluation 
+
+- feature_extractor.py
+	Feature extraction class to extract MFCC, deltas, double deltas, RSE
+
+- VAD_model.py
+	LSTM-RNN tensorflow learning models variants
+
+- __main__.py
+	The program's main entry point
+
+- /checkpoint
+	Tensorflow checkpoint directory for saving and restoring learning models
+
+- /parameter
+	LSTM-RNN learning model hyper-parameters, training parameters, and log/checkpoint directories names
+
+- /notebook
+Jupyter notebooks to test initial VAD prototypes
