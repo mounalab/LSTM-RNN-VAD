@@ -1,0 +1,21 @@
+{
+	"training_epochs" : 100,
+
+    "learning_rate" : 10e-2,
+    "momentum" : 0.9,
+    "model" : "lstm",
+    "input_keep_probability" : 1.0,
+    "output_keep_probability" : 1.0,
+    "sequence_length" : 500,
+    "input_dimension" : 36,
+    "batch_size" : 1000,
+    "state_size" : 50,
+    "n_layers" : 1,
+    "n_classes" : 2,
+
+    "threshold" : 0.5,
+
+    "log_dir" : "log",
+    "checkpoint_dir" : "checkpoint"
+
+}
