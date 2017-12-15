@@ -13,7 +13,7 @@ Project: Voice Activity Detection for Voice Controlled Home Automation <br />
 	Feature extraction class to extract MFCC, deltas, double deltas, RSE
 
 \- VAD_model.py <br />
-	LSTM-RNN tensorflow learning models variants
+	LSTM-RNN tensorflow learning model
 
 \- \__main__.py <br />
 	The program's main entry point
