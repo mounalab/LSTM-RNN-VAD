@@ -1,7 +1,6 @@
 # LSTM-RNN Voice Activity Detection
 
-*** Project: Voice Activity Detection for Voice Controlled Home Automation <br />
-*** By: Mouna LABIADH
+Project: Voice Activity Detection for Voice Controlled Home Automation <br />
 
 
 \- dataset_utils.py <br />
