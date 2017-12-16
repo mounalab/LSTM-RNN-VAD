@@ -1,7 +1,9 @@
 # LSTM-RNN Voice Activity Detection
 
 
-REQUIRED PACKAGES: numpy, tensorflow, libROSA, matplotlib <br />
+REQUIRED PACKAGES <br />
+
+numpy, tensorflow, libROSA, matplotlib <br />
 
 
 FILES<br />
