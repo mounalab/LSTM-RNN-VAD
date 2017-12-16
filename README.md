@@ -1,6 +1,11 @@
 # LSTM-RNN Voice Activity Detection
 
 
+REQUIRED PACKAGES: numpy, tensorflow, libROSA, matplotlib <br />
+
+
+FILES<br />
+
 \- dataset_utils.py <br />
 	Dataset related utilities: One-hot encoding, wav file normalisation, TRS to CSV conversion, JSON to CSV conversion, Youtube wav download for the AudioSet Google corpus, Liblinear library data transformations
 
